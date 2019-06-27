@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: mymelon
+Bundle-SymbolicName: mymelon
+Bundle-Version: 1.0.0.qualifier
+Export-Package: kr.co.mymelon,
+ kr.co.mymelon.mediagroup,
+ net.utility
